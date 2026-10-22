@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder TV banner (320x180dp required by Fire TV/Android TV launchers).
+     Replace with a real PNG banner before shipping; this vector keeps the
+     project buildable without binary assets checked in. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:fillColor="#0B0F14" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#3DDC97" android:pathData="M30,90 L80,60 L80,120 Z" />
+</vector>
